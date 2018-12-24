@@ -138,7 +138,11 @@ def scrpt():
                | |  _| '_ ` _ \ / _` | | | \___ \ / _ \ '_ \ / _` |/ _ \ '__|
                | |_| | | | | | | (_| | | |  ___) |  __/ | | | (_| |  __/ |   
                 \____|_| |_| |_|\__,_|_|_| |____/ \___|_| |_|\__,_|\___|_|   
-                                                                    
+             
+	     	To use this feature, you must activate the Google Account Limit to this section
+		https://myaccount.google.com/data-and-personalization
+		And tick the "Web & App Activity" option
+	     
             ''')
 
 
